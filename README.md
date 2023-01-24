@@ -6,130 +6,130 @@
 <h2></h2>
 
 ⭐ Arrays & Hashing
-- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Contains Duplicate (217) 
-- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Valid Anagram (242)
-- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Two Sum (1)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Group Anagrams (49)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Top K Frequent Elements (347)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Product od Array Except Self (238)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Encode And Decode Strings (premium)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Longest Consecutive Sequence (128)
+- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Contains Duplicate <a href="https://leetcode.com/problems/contains-duplicate/">(217)</a> 
+- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Valid Anagram <a href="https://leetcode.com/problems/valid-anagram/">(242)</a> 
+- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Two Sum <a href="https://leetcode.com/problems/two-sum/">(1)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Group Anagrams <a href="https://leetcode.com/problems/group-anagrams/">(49)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Top K Frequent Elements <a href="https://leetcode.com/problems/top-k-frequent-elements/">(347)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Product od Array Except Self <a href="https://leetcode.com/problems/product-of-array-except-self/">(238)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Encode And Decode Strings <a href="https://leetcode.com/problems/encode-and-decode-strings/">(premium)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Longest Consecutive Sequence <a href="https://leetcode.com/problems/longest-consecutive-sequence/">(128)</a> 
 <h2></h2>
 
 ⭐ Two Pointers
-- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Valid Palindrome (125)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) 3Dum (15)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Container With Most Water (11)
+- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Valid Palindrome <a href="https://leetcode.com/problems/valid-palindrome/">(125)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) 3Dum <a href="https://leetcode.com/problems/3sum/">(15)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Container With Most Water <a href="https://leetcode.com/problems/container-with-most-water/">(11)</a> 
 <h2></h2>
 
 ⭐ Sliding Window
-- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Best Time to Buy and Sell Stock (121)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Longest Substring Without Repeating Characters (3)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Longest Repeating Character Replacement (424)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Hard-red.svg)](https://shields.io/) Minimum Window Substring (76)
+- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Best Time to Buy and Sell Stock <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">(121)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Longest Substring Without Repeating Characters <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">(3)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Longest Repeating Character Replacement <a href="https://leetcode.com/problems/longest-repeating-character-replacement/">(424)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Hard-red.svg)](https://shields.io/) Minimum Window Substring <a href="https://leetcode.com/problems/minimum-window-substring/">(76)</a> 
 <h2></h2>
 
 ⭐ Stack
-- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Valid Parentheses (20)
+- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Valid Parentheses <a href="https://leetcode.com/problems/valid-parentheses/">(20)</a> 
 <h2></h2>
 
 ⭐ Binary Search
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Find Minimum in Rotated Sorted Array (153)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Search in Rotated Sorted Array (33)
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Find Minimum in Rotated Sorted Array <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">(153)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Search in Rotated Sorted Array <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">(33)</a> 
 <h2></h2>
 
 ⭐ Linked List
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Reverse Linked List (206)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Merge Two Sorted Lists (21)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Reorder List (143)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Remove Nth Node From End of List (19)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Linked List Cycle (141)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Hard-red.svg)](https://shields.io/) Merge k Sorted Lists (23)
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Reverse Linked List <a href="https://leetcode.com/problems/reverse-linked-list/">(206)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Merge Two Sorted Lists <a href="https://leetcode.com/problems/merge-two-sorted-lists/">(21)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Reorder List <a href="https://leetcode.com/problems/reorder-list/">(143)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Remove Nth Node From End of List <a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">(19)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Linked List Cycle <a href="https://leetcode.com/problems/linked-list-cycle/">(141)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Hard-red.svg)](https://shields.io/) Merge k Sorted Lists <a href="https://leetcode.com/problems/merge-k-sorted-lists/">(23)</a> 
 <h2></h2>
 
 ⭐ Trees
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Invert Binary Tree (226)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Maximum Depth of Binary Tree (104)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Same Tree (100)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Subtree of Another Tree (572)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Lowest Common Ancestor of a Binary Search Tree (235)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Binary Tree Level Order Traversal (102)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Validate Binary Search Tree (98)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Kth Smallest Element in a BST (230)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Construct Binary Tree from Preorder and Inorder Traversal (105)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Hard-red.svg)](https://shields.io/) Binary Tree Maximum Path Sum (124)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Hard-red.svg)](https://shields.io/) Serialize and Deserialize Binary Tree (297)
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Invert Binary Tree <a href="https://leetcode.com/problems/invert-binary-tree/">(226)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Maximum Depth of Binary Tree <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">(104)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Same Tree <a href="https://leetcode.com/problems/same-tree/">(100)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Subtree of Another Tree <a href="https://leetcode.com/problems/subtree-of-another-tree/">(572)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Lowest Common Ancestor of a Binary Search Tree <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">(235)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Binary Tree Level Order Traversal <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">(102)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Validate Binary Search Tree <a href="https://leetcode.com/problems/validate-binary-search-tree/">(98)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Kth Smallest Element in a BST <a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">(230)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Construct Binary Tree from Preorder and Inorder Traversal <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/">(105)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Hard-red.svg)](https://shields.io/) Binary Tree Maximum Path Sum <a href="https://leetcode.com/problems/binary-tree-maximum-path-sum/">(124)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Hard-red.svg)](https://shields.io/) Serialize and Deserialize Binary Tree <a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">(297)</a> 
 <h2></h2>
 
 ⭐ Tries
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Implement Trie (Prefix Tree) (208)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Design Add and Search Words Data Structure (211)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Hard-red.svg)](https://shields.io/) Word Search II (212)
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Implement Trie (Prefix Tree) <a href="https://leetcode.com/problems/implement-trie-prefix-tree/">(208)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Design Add and Search Words Data Structure <a href="https://leetcode.com/problems/design-add-and-search-words-data-structure/">(211)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Hard-red.svg)](https://shields.io/) Word Search II <a href="https://leetcode.com/problems/word-search-ii/">(212)</a> 
 <h2></h2>
 
 ⭐ Heap / Priority Queue
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Hard-red.svg)](https://shields.io/) Find Median from Data Stream (295)
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Hard-red.svg)](https://shields.io/) Find Median from Data Stream <a href="https://leetcode.com/problems/find-median-from-data-stream/">(295)</a> 
 <h2></h2>
 
 ⭐ Backtracking
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Combination Sum (39)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Word Search (79)
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Combination Sum <a href="https://leetcode.com/problems/combination-sum/">(39)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Word Search <a href="https://leetcode.com/problems/word-search/">(79)</a> 
 <h2></h2>
 
 ⭐ Graphs
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Number of Islands (200)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Clone Graph (133)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Pacific Atlantic Water Flow (417)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Course Schedule (207)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Number of Connected Components In An Undirected Graph (premium)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Graph Valid Tree(premium)
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Number of Islands <a href="https://leetcode.com/problems/number-of-islands/">(200)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Clone Graph <a href="https://leetcode.com/problems/clone-graph/">(133)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Pacific Atlantic Water Flow <a href="https://leetcode.com/problems/pacific-atlantic-water-flow/">(417)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Course Schedule <a href="https://leetcode.com/problems/course-schedule/">(207)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Number of Connected Components In An Undirected Graph <a href="https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/">(premium)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Graph Valid Tree <a href="https://leetcode.com/problems/graph-valid-tree/">(premium)</a> 
 <h2></h2>
 
 ⭐ Advanced Graphs
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Hard-red.svg)](https://shields.io/) Alien Dictionary (premium)
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Hard-red.svg)](https://shields.io/) Alien Dictionary <a href="https://leetcode.com/problems/alien-dictionary/">(premium)</a> 
 <h2></h2>
 
 ⭐ 1-D Dynamic Programming
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Climbing Stairs (70)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) House Robber (198)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) House Robber II (213)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Longest Palindromic Substring (5)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Palindromic Substrings (647)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Decode Ways (91)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Coin Change (322)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Maximum Product Subarray (152)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Word Break (139)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Longest Increasing Subsequence (300)
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Climbing Stairs <a href="https://leetcode.com/problems/climbing-stairs/">(70)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) House Robber <a href="https://leetcode.com/problems/house-robber/">(198)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) House Robber II <a href="https://leetcode.com/problems/house-robber-ii/">(213)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Longest Palindromic Substring <a href="https://leetcode.com/problems/longest-palindromic-substring/">(5)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Palindromic Substrings <a href="https://leetcode.com/problems/palindromic-substrings/">(647)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Decode Ways <a href="https://leetcode.com/problems/decode-ways/">(91)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Coin Change <a href="https://leetcode.com/problems/coin-change/">(322)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Maximum Product Subarray <a href="https://leetcode.com/problems/maximum-product-subarray/">(152)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Word Break <a href="https://leetcode.com/problems/word-break/">(139)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Longest Increasing Subsequence <a href="https://leetcode.com/problems/longest-increasing-subsequence/">(300)</a> 
 <h2></h2>
 
 ⭐ 2-D Dynamic Programming
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Unique Paths (62)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Longest Common Subsequence (1143)
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Unique Paths <a href="https://leetcode.com/problems/unique-paths/">(62)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Longest Common Subsequence <a href="https://leetcode.com/problems/longest-common-subsequence/">(1143)</a> 
 <h2></h2>
 
 ⭐ Greedy
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Maximum Subarray (53)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Jump Game (55)
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Maximum Subarray <a href="https://leetcode.com/problems/maximum-subarray/">(53)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Jump Game <a href="https://leetcode.com/problems/jump-game/">(55)</a> 
 <h2></h2>
 
 ⭐ Intervals
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Insert Interval (57)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Merge Intervals (56)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Non-overlapping Intervals (435)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Meeting Rooms (premium)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Meeting Rooms II (premium)
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Insert Interval <a href="https://leetcode.com/problems/insert-interval/">(57)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Merge Intervals <a href="https://leetcode.com/problems/merge-intervals/">(56)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Non-overlapping Intervals <a href="https://leetcode.com/problems/non-overlapping-intervals/">(435)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Meeting Rooms <a href="https://leetcode.com/problems/meeting-rooms/">(premium)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Meeting Rooms II <a href="https://leetcode.com/problems/meeting-rooms-ii/">(premium)</a> 
 <h2></h2>
 
 ⭐ Math & Geometry
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Rotate Image (48)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Spiral Matrix (54)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Set Matrix Zeroes (73)
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Rotate Image <a href="https://leetcode.com/problems/rotate-image/">(48)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Spiral Matrix <a href="https://leetcode.com/problems/spiral-matrix/">(54)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Set Matrix Zeroes <a href="https://leetcode.com/problems/set-matrix-zeroes/">(73)</a> 
 <h2></h2>
 
 ⭐ Bit Manipulation
-- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Number of 1 Bits (191)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Counting Bits (338)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Reverse Bits (190)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Missing Number (268)
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Sum of Two Integers (371)
+- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Number of 1 Bits <a href="https://leetcode.com/problems/number-of-1-bits/">(191)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Counting Bits <a href="https://leetcode.com/problems/counting-bits/">(338)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Reverse Bits <a href="https://leetcode.com/problems/reverse-bits/">(190)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Missing Number <a href="https://leetcode.com/problems/missing-number/">(268)</a> 
+- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Sum of Two Integers <a href="https://leetcode.com/problems/sum-of-two-integers/">(371)</a> 
 <h2></h2>
