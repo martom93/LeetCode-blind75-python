@@ -129,7 +129,7 @@
 ⭐ Bit Manipulation
 - [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Number of 1 Bits <a href="https://leetcode.com/problems/number-of-1-bits/">(191)</a> 
 - [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Counting Bits <a href="https://leetcode.com/problems/counting-bits/">(338)</a> 
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Reverse Bits <a href="https://leetcode.com/problems/reverse-bits/">(190)</a> 
-- [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Missing Number <a href="https://leetcode.com/problems/missing-number/">(268)</a> 
+- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Reverse Bits <a href="https://leetcode.com/problems/reverse-bits/">(190)</a> 
+- [x] [![Generic badge](https://img.shields.io/badge/Difficulty-Easy-X.svg)](https://shields.io/) Missing Number <a href="https://leetcode.com/problems/missing-number/">(268)</a> 
 - [ ] [![Generic badge](https://img.shields.io/badge/Difficulty-Medium-yellow.svg)](https://shields.io/) Sum of Two Integers <a href="https://leetcode.com/problems/sum-of-two-integers/">(371)</a> 
 <h2></h2>
