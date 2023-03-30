@@ -22,5 +22,6 @@ class Solution:
                 #to shows the new lowest point. Buy = Sell
                 buy = sell
             sell += 1
+
         #returning the max profit    
         return maxProfit
