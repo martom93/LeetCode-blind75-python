@@ -11,4 +11,5 @@ class Solution:
             if element in hashSet:
                 return True
             hashSet.add(element)
+
         return False
