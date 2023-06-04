@@ -24,7 +24,6 @@ class Solution:
 
 
 
-
     #function that checks the ASCII values of a-z, A-Z and 0-9 characters.
     def checkIfAlNum(self, element):
             return(ord('A') <= ord(element) <= ord('Z') or
