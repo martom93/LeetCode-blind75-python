@@ -19,5 +19,4 @@ class Solution:
             if hashS[c] != hashT.get(c, 0):
                 return False
         
-
         return True
