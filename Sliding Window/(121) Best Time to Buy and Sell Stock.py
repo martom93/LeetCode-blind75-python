@@ -24,6 +24,5 @@ class Solution:
             sell += 1
 
 
-
         #returning the max profit    
         return maxProfit
