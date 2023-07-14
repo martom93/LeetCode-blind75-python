@@ -27,6 +27,5 @@ class Solution:
 
 
 
-
         #returning the max profit    
         return maxProfit
