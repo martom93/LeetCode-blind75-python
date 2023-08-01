@@ -13,6 +13,4 @@ class Solution:
             hashSet.add(element)
 
 
-
-NVIDIA RTX A2000
         return False
