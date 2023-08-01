@@ -14,4 +14,5 @@ class Solution:
 
 
 
+NVIDIA RTX A2000
         return False
