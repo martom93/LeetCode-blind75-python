@@ -1,7 +1,6 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
 
-
         #Creating the set of unique element of array
         hashSet = set()
 
