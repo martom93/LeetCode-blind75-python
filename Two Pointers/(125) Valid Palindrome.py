@@ -17,6 +17,7 @@ class Solution:
             if s[left].lower() != s[right].lower():
                 return False
 
+
             #Update the indexes. Increment left one, and decrement the right one.     
             left, right = left + 1, right - 1
         return True
