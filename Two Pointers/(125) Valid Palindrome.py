@@ -17,7 +17,6 @@ class Solution:
                 return False
 
 
-
             #Update the indexes. Increment left one, and decrement the right one.     
             left, right = left + 1, right - 1
         return True
