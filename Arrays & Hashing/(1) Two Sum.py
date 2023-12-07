@@ -12,6 +12,5 @@ class Solution:
                 return [hashMap[difference], index]
             else:
 
-
                 hashMap[value] = index
         return
