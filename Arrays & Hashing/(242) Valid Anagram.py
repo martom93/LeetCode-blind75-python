@@ -10,6 +10,7 @@ class Solution:
 
 
 
+
         #it doesn't matter what string you will choose, because on this stage they has to be equal.
         #building the hashmaps
         for i in range(len(s)): 
