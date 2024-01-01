@@ -12,7 +12,6 @@ class Solution:
             missing = 0
 
 
-
         #Looping through array and checking difference between next and current element
         #if it's 1, then check another pair, if not return missing element as: current + 1
         for i in range(len(nums)-1):
