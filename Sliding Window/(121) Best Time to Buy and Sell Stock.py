@@ -23,5 +23,6 @@ class Solution:
                 buy = sell
             sell += 1
 
+
         #returning the max profit    
         return maxProfit
