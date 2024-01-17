@@ -11,4 +11,5 @@ class Solution:
             #shift resault to the corect slot
             resault = resault | currentBit << (31 - i)
         
+
         return resault
