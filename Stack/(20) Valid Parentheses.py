@@ -12,6 +12,8 @@ class Solution:
         }
 
 
+
+
         #Loop  for each element in a S String
         for element in s:
             #If element exist in a HashMap as a key:
