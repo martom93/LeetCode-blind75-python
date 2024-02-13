@@ -13,9 +13,6 @@ class Solution:
                 right -= 1
 
 
-
-
-
             #if values aren't equal return False. Remember that we have to 
             #convert symbol to lowerCase.
             if s[left].lower() != s[right].lower():
