@@ -3,6 +3,7 @@ class Solution:
         #Resault variable to keep track of 1's bits
         resault = 0
 
+
         #Keep looping until n contains only 0's
         while n:    
             #checking if our last bit is 1, then
