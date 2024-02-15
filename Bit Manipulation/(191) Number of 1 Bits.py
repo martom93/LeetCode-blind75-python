@@ -11,6 +11,5 @@ class Solution:
                 resault += 1
                 n = n >> 1
             else: 
-
                 n = n >> 1
         return resault
