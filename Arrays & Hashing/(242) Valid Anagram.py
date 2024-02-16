@@ -7,6 +7,7 @@ class Solution:
         #creating the hashmaps for S and T strings to store the letter and number of that letter in a string.
         hashS, hashT = {}, {} 
 
+
         #it doesn't matter what string you will choose, because on this stage they has to be equal.
         #building the hashmaps
         for i in range(len(s)): 
