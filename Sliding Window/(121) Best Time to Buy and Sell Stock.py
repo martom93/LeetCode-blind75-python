@@ -11,8 +11,6 @@ class Solution:
         maxProfit = 0
 
 
-
-
         #looping through until sell pointer reaches the edge of the array
         while sell < len(prices):
             #If we have the profit, calculate the profit and check if it's
