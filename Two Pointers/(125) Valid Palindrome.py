@@ -3,6 +3,7 @@ class Solution:
         #Declaration of left and right pointers on first and last element
         left, right = 0, len(s)-1
 
+
         #Iterate through the string until pointers meets each other
         while left<right:
             #while pointer doesnt show on Alfa-numeric symbol, increment or decrement
