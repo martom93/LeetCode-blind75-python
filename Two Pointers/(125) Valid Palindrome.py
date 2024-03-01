@@ -23,6 +23,7 @@ class Solution:
             left, right = left + 1, right - 1
         return True
 
+
     #function that checks the ASCII values of a-z, A-Z and 0-9 characters.
     def checkIfAlNum(self, element):
             return(ord('A') <= ord(element) <= ord('Z') or
