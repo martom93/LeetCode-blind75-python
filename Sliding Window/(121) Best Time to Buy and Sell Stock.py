@@ -6,6 +6,7 @@ class Solution:
         buy, sell = 0, 1
 
 
+
         #Declare the max profit variable to determine, if profit is the 
         #max profit
         maxProfit = 0
