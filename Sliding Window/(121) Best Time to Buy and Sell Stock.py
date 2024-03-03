@@ -1,6 +1,7 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
 
+
         #Using two pointers method set pointer "buy" on first element
         #and pointer sell on second element of our prices array.
         buy, sell = 0, 1
