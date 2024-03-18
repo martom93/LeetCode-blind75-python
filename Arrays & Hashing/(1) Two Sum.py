@@ -14,6 +14,5 @@ class Solution:
             else:
 
 
-
                 hashMap[value] = index
         return
