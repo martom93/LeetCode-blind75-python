@@ -5,7 +5,6 @@ class Solution:
         #Sort the array
         nums = sorted(nums)
 
-
         #Edge cases, if first element isn't 0 or the last element isn't N
         if nums[len(nums)-1] != len(nums):
             missing = len(nums)
