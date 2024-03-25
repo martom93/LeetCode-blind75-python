@@ -4,6 +4,7 @@ class Solution:
         left, right = 0, len(s)-1
 
 
+
         #Iterate through the string until pointers meets each other
         while left<right:
             #while pointer doesnt show on Alfa-numeric symbol, increment or decrement
