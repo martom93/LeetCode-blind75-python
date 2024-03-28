@@ -21,6 +21,7 @@ class Solution:
                 maxProfit = max(maxProfit, profit)
             else:
 
+
                 #If selling point is the new lowest point, update the buy pointer
                 #to shows the new lowest point. Buy = Sell
                 buy = sell
