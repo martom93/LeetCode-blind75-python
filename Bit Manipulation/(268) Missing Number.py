@@ -17,4 +17,5 @@ class Solution:
             if nums[i+1]-nums[i] != 1:
                 missing = nums[i] + 1
 
+
         return missing
