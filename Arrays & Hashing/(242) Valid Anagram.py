@@ -13,6 +13,12 @@ class Solution:
             hashS[s[i]] = 1 + hashS.get(s[i], 0)
             hashT[t[i]] = 1 + hashT.get(t[i], 0)
 
+
+
+
+
+
+
         #Comparing the hashmaps
         for c in hashS:
             if hashS[c] != hashT.get(c, 0):
