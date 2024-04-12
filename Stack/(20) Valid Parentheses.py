@@ -4,6 +4,7 @@ class Solution:
         #Creating the stack to store parentheses
         stack = []
 
+
         #Creating hashmap containing matching parentheses
         openToClose = {
             "}":"{",
