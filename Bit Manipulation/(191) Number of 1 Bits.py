@@ -12,5 +12,9 @@ class Solution:
             else: 
 
 
+
+
+
+
                 n = n >> 1
         return resault
