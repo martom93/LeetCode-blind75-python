@@ -25,8 +25,6 @@ class Solution:
                     return False
             else:
                 stack.append(element)
-          
-
 
         #Return True if the stack is empty, or False when it is not
         return True if not stack else False
