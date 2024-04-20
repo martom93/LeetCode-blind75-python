@@ -13,4 +13,7 @@ class Solution:
             resault = resault | currentBit << (31 - i)
         
 
+
+
+
         return resault
