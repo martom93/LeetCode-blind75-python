@@ -13,7 +13,6 @@ class Solution:
                 right -= 1
 
 
-
             #if values aren't equal return False. Remember that we have to 
             #convert symbol to lowerCase.
             if s[left].lower() != s[right].lower():
@@ -22,7 +21,6 @@ class Solution:
             #Update the indexes. Increment left one, and decrement the right one.     
             left, right = left + 1, right - 1
         return True
-
 
 
 
