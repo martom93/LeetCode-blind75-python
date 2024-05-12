@@ -14,7 +14,5 @@ class Solution:
 
 
 
-
-
                 n = n >> 1
         return resault
