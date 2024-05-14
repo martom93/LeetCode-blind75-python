@@ -3,7 +3,6 @@ class Solution:
         #creating the Hashmap to store Key:Value data as: Index:Value
         hashMap = {}
 
-
         #Iterate through the HashMap, checking if difference between target and current value
         #exist in a hashmap, otherwise add this value and index to the hashmap
         for index, value in enumerate (nums):
