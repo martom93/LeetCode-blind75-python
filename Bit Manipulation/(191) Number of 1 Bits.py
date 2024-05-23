@@ -2,6 +2,7 @@ class Solution:
     def hammingWeight(self, n: int) -> int:
         #Resault variable to keep track of 1's bits
         resault = 0
+
         #Keep looping until n contains only 0's
         while n:    
 
@@ -12,9 +13,6 @@ class Solution:
                 resault += 1
                 n = n >> 1
             else: 
-
-
-
 
 
                 n = n >> 1
