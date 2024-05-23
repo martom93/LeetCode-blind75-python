@@ -7,6 +7,8 @@ class Solution:
         while n:    
 
 
+
+
             #checking if our last bit is 1, then
             #shift the number by one using >>
             if n % 2 == 1:
