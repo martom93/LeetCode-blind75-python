@@ -12,5 +12,6 @@ class Solution:
                 n = n >> 1
             else: 
 
+
                 n = n >> 1
         return resault
