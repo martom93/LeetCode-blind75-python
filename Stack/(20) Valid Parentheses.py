@@ -1,6 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
 
+
         #Creating the stack to store parentheses
         stack = []
 
