@@ -19,4 +19,6 @@ class Solution:
                 missing = nums[i] + 1
 
 
+
+
         return missing
