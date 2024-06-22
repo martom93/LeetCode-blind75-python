@@ -3,7 +3,6 @@ class Solution:
         #Declaration of left and right pointers on first and last element
         left, right = 0, len(s)-1
 
-
         #Iterate through the string until pointers meets each other
         while left<right:
             #while pointer doesnt show on Alfa-numeric symbol, increment or decrement
@@ -16,8 +15,6 @@ class Solution:
             #convert symbol to lowerCase.
             if s[left].lower() != s[right].lower():
                 return False
-
-
 
             #Update the indexes. Increment left one, and decrement the right one.     
             left, right = left + 1, right - 1
