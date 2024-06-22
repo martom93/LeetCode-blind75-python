@@ -19,12 +19,9 @@ class Solution:
 
 
 
-
             #Update the indexes. Increment left one, and decrement the right one.     
             left, right = left + 1, right - 1
         return True
-
-
 
     #function that checks the ASCII values of a-z, A-Z and 0-9 characters.
     def checkIfAlNum(self, element):
